@@ -8,3 +8,5 @@ rebaseを体験しよう！
 久しぶりのgit練習
 
 merge練習
+
+merge練習2
